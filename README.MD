@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/robo.png"
+    src="./assets/robo.webp"
     width="300"
 />
 </p>
